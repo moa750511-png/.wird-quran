@@ -1,0 +1,8 @@
+{
+  "appId": "com.wirdquran.app",
+  "appName": "ورد القرآن",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
